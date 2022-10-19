@@ -1,5 +1,0 @@
-setup.py
-learning_tests.egg-info/PKG-INFO
-learning_tests.egg-info/SOURCES.txt
-learning_tests.egg-info/dependency_links.txt
-learning_tests.egg-info/top_level.txt
