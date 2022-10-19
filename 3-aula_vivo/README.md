@@ -7,5 +7,5 @@ pip install -r dev-requirements.txt
 # Executar os testes
 python -m pytest
 
-# Desativar  ambiente virtual
+# Desativar  ambiente virtual.
 deactivate
